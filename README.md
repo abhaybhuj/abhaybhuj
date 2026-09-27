@@ -290,6 +290,112 @@ A scheduler-driven enterprise integration service developed at Cinntra Infotech 
 
 ---
 
+## 🕹️ Interactive Retro Arcade & GitHub README Fighting Game
+
+<div align="center">
+
+[![PLAY BYTE BRAWLER](https://img.shields.io/badge/PLAY_FIGHTING_ARCADE-BYTE_BRAWLER_🥋-FF0055?style=for-the-badge&logo=nintendo-switch&logoColor=white)](https://ais-pre-t3udoy6mbe3aruivts37cg-203407111350.asia-east1.run.app)
+[![DEV BUG HUNTER](https://img.shields.io/badge/8--BIT_SNAKE-BUG_HUNTER-00FF66?style=for-the-badge&logo=game-and-watch&logoColor=black)](https://ais-pre-t3udoy6mbe3aruivts37cg-203407111350.asia-east1.run.app)
+[![SPECIAL MOVE](https://img.shields.io/badge/SPECIAL_ATTACK-.NET_HADOUKEN_⚡-00D4FF?style=for-the-badge&logo=dotnet&logoColor=white)](https://ais-pre-t3udoy6mbe3aruivts37cg-203407111350.asia-east1.run.app)
+
+### 🎮 Playable Boss Fight: Abhay (.NET Architect) vs. Glitch Lord (Production Bug)
+*Click on any move below to trigger your combat action against the production bug! (100% playable directly inside this GitHub README)*
+
+```plaintext
+┌────────────────────────────────────────────────────────────────────────┐
+│  [ABHAY .NET DEV]  ██████████  100 HP   VS   100 HP  ██████████  [GLITCH LORD] │
+│  SUPER METER: [████████████] 100% READY!         STADIUM: PROD SERVER │
+│                                                                        │
+│       O/   ⚡ .NET HADOUKEN ──────>                O                  │
+│      /|                            💥 CRIT!        |                  │
+│      /                                           /                   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<!-- Interactive In-README Turn-Based Combat -->
+<details>
+<summary><b>👊 Move 1: Execute C# LINQ Expression (Fast Jab Strike) — <i>Click to Attack!</i></b></summary>
+<br/>
+
+> ⚡ **HIT CONNECTED!**  
+> Your strongly-typed LINQ query filtered out 30 unindexed null references before they hit the database!  
+> **Damage Dealt:** <code>30 DMG</code>  
+> **Glitch Lord HP:** <code>[███████░░░] 70/100 HP</code>  
+> *Glitch Lord reels backward from clean code execution!*
+</details>
+
+<details>
+<summary><b>🦵 Move 2: Angular Reactive Signal Kick (Mid-Range Strike) — <i>Click to Attack!</i></b></summary>
+<br/>
+
+> 💥 **CRITICAL COMBO!**  
+> Fine-grained Angular reactive signals updated the DOM without triggering a complete component tree re-render!  
+> **Damage Dealt:** <code>35 DMG</code>  
+> **Glitch Lord HP:** <code>[███░░░░░░░] 35/100 HP</code>  
+> *Glitch Lord's render cycle lags out by 120ms!*
+</details>
+
+<details>
+<summary><b>⚡ Move 3: ASP.NET Core 8 Web API Hadouken (Heavy Special Blast) — <i>Click to Attack!</i></b></summary>
+<br/>
+
+> 🌊 **ULTRA SPECIAL MOVE!**  
+> High-throughput asynchronous ASP.NET Core controllers with Kestrel optimization unleashed a sub-10ms burst wave!  
+> **Damage Dealt:** <code>40 DMG</code>  
+> **Glitch Lord HP:** <code>[░░░░░░░░░░] 0/100 HP</code>  
+> 
+> 🏆 **K.O.! YOU WIN! PRODUCTION BUG ELIMINATED!**  
+> *All unit tests are green, the CI/CD pipeline has passed, and the production release is live and stable!*  
+> 🌟 *Achievement Unlocked: Senior Full-Stack Architecture Master!*
+</details>
+
+<details>
+<summary><b>🛡️ Move 4: Entity Framework Database Transaction Rollback (Defense Shield) — <i>Click to Defend!</i></b></summary>
+<br/>
+
+> 🛡️ **PERFECT PARRY!**  
+> ACID transaction rollback intercepted a rogue dirty read!  
+> **Damage Taken:** <code>0 DMG</code>  
+> **Abhay HP:** <code>[██████████] 100/100 HP</code>  
+> *Zero ledger mismatch. Complete financial data integrity preserved!*
+</details>
+
+<br/>
+
+<!-- Interactive Tic-Tac-Toe Minigame in Markdown -->
+<details>
+<summary><b>🕹️ Bonus Minigame: Quick Tic-Tac-Toe vs The Bug (Click to Expand Board)</b></summary>
+<br/>
+
+| Square 1 | Square 2 | Square 3 |
+| :---: | :---: | :---: |
+| <details><summary>🟦 [Click 1]</summary>❌ **X (.NET)**</details> | <details><summary>🟦 [Click 2]</summary>⭕ **O (Bug)**</details> | <details><summary>🟦 [Click 3]</summary>❌ **X (.NET)**</details> |
+| <details><summary>🟦 [Click 4]</summary>⭕ **O (Bug)**</details> | <details><summary>🟦 [Click 5]</summary>❌ **X (.NET)**</details> | <details><summary>🟦 [Click 6]</summary>⭕ **O (Bug)**</details> |
+| <details><summary>🟦 [Click 7]</summary>❌ **X (WIN!)**</details> | <details><summary>🟦 [Click 8]</summary>⭕ **O (Bug)**</details> | <details><summary>🟦 [Click 9]</summary>❌ **X (WIN!)**</details> |
+
+*Click any square to discover whether .NET or the Bug takes the tile!*
+</details>
+
+<br/>
+
+<div align="center">
+
+### 🎮 Contribution Graph Snake Game
+<!-- The legendary snake eating the commit contribution grid -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhaybhuj/abhaybhuj/output/github-contribution-grid-snake.svg" alt="Abhay's Contribution Graph Snake" onerror="this.src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif'" width="100%" />
+</p>
+
+> 🕹️ **Want to play the full 60 FPS Retro Arcade Fighting Game (Byte Brawler)?**  
+> **[👉 Click Here to Launch Byte Brawler & Dev Bug Hunter in Browser!](https://ais-pre-t3udoy6mbe3aruivts37cg-203407111350.asia-east1.run.app)**  
+> *(Real-time canvas combat, combos, .NET Hadouken blasts, 8-bit sound effects, and mobile touch controls)*
+
+</div>
+
+---
+
 ## 🤝 Let's Connect & Collaborate
 
 I am open to full-stack software development opportunities in C#, .NET Core, Angular, React, Web APIs, and Enterprise Systems. Feel free to reach out directly:
